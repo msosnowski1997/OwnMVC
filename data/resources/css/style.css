@@ -1,0 +1,27 @@
+.share-menu {
+    display: inline-block
+}
+
+.share-menu .share-menu-button {
+    display: inline-block
+}
+
+.share-menu .share-menu-list {
+    display: none;
+    padding: 0;
+    margin: 0;
+    list-style-type: none
+}
+
+.share-menu .share-menu-list li {
+    display: inline-block
+}
+
+.share-menu:focus .share-menu-list,.ms-header .header-right .share-menu:hover .share-menu-list {
+    display: inline-block
+}
+
+
+
+
+

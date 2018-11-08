@@ -1,0 +1,4 @@
+function checkLoginForm()
+{
+    return false;
+}
